@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. student in Computer and Information Science at [University of Oregon](https://www.uoregon.edu/), working with Prof. [Thien Nguyen](https://ix.cs.uoregon.edu/~thien/) in the [UONLP lab](http://nlp.uoregon.edu/) in Multilingual and Crosslingual Natural Language Processing with the focus on Information Extraction. Before starting my Ph.D., I received my bachelor's degree in Computer Science from [Hanoi University of Science and Technology](https://en.hust.edu.vn/home) and was a member of the [Data Science Lab](http://ds.soict.hust.edu.vn/) under the supervision of Prof. [Khoat Than](https://users.soict.hust.edu.vn/khoattq/) and Dr. [Linh Ngo Van](https://users.soict.hust.edu.vn/linhnv/).
+I am a Ph.D. student in Computer and Information Science at [University of Oregon](https://www.uoregon.edu/), working with Prof. [Thien Huu Nguyen](https://ix.cs.uoregon.edu/~thien/) in the [UONLP lab](http://nlp.uoregon.edu/) in Multilingual and Crosslingual Natural Language Processing with the focus on Information Extraction. Before starting my Ph.D., I received my bachelor's degree in Computer Science from [Hanoi University of Science and Technology](https://en.hust.edu.vn/home) and was a member of the [Data Science Lab](http://ds.soict.hust.edu.vn/) under the supervision of Prof. [Khoat Than](https://users.soict.hust.edu.vn/khoattq/) and Dr. [Linh Ngo Van](https://users.soict.hust.edu.vn/linhnv/).
 
 Education
 ------
