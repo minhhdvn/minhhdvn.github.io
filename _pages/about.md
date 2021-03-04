@@ -46,6 +46,7 @@ Publications (*=equal contribution)
 * **Improving Cross-Lingual Transfer for Event Argument Extraction with Language-Universal Sentence Structures** [<a href=''>To Appear</a>]<br>
   <ins>**Minh Van Nguyen**</ins> and Thien Huu Nguyen <br>
   **WANLP'21**: Proceedings of the 6th Arabic Natural Language Processing Workshop at EACL 2021.<br>
+  
 ### 2018
 <br>
 
