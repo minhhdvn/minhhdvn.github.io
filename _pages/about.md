@@ -39,7 +39,7 @@ Publications (*=equal contribution)
 ### 2021
 <br>
 
-* **Trankit: A Light-Weight Transformer-based Toolkit for Multilingual Natural Language Processing** [<a href='https://arxiv.org/pdf/2101.03289.pdf'>Paper</a>] [<a href='https://github.com/nlp-uoregon/trankit'>Github</a>] [<a href='http://nlp.uoregon.edu/trankit'>Demo</a>] [<a href='http://nlp.uoregon.edu/trankit'>Demo</a>] [<a href='https://trankit.readthedocs.io/en/latest/'>Documentation</a>]<br>
+* **Trankit: A Light-Weight Transformer-based Toolkit for Multilingual Natural Language Processing** [<a href='https://arxiv.org/pdf/2101.03289.pdf'>Paper</a>] [<a href='https://github.com/nlp-uoregon/trankit'>Github</a>] [<a href='http://nlp.uoregon.edu/trankit'>Demo</a>] [<a href='https://trankit.readthedocs.io/en/latest/'>Documentation</a>]<br>
   <ins>**Minh Van Nguyen**</ins>, Viet Lai, Amir Pouran Ben Veyseh and Thien Huu Nguyen.<br>
   **EACL'21 Demo**: Proceedings of the 16th Conference of the European Chapter of the Association for Computational Linguistics: System Demonstrations.<br>
 
