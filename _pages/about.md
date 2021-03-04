@@ -22,11 +22,14 @@ Education
 
 Softwares
 ------
-
+   * **FourIE**: a neural information extraction system that annotates text for entity mentions (names, pronouns, nominals), relations, event triggers and argument roles using the information schema defined in the ACE 2005 dataset. FourIE leverages deep learning and graph convolutional networks to jointly perform four tasks in information extraction, i.e., entity mention detection, relation extraction, event detection and argument role prediction in an end-to-end fashion. [Demo](http://nlp.uoregon.edu/fourie).
+   * **Trankit**: a light-weight transformer-based toolkit for multilingual NLP that can process raw text and support fundamental NLP tasks for 56 languages. Trankit is based on recent advances on multilingual pre-trained language models, providing state-of-the-art performance for Sentence Segmentation, Tokenization, Multi-word Token Expansion, POS Tagging, Morphological Feature Tagging, Dependency Parsing, and Named Entity Recognition over 90 Universal Dependencies treebanks. Trankit can be installed and used easily with Python. [Github](https://github.com/nlp-uoregon/trankit), [Demo](http://nlp.uoregon.edu/trankit), [Documentation](https://trankit.readthedocs.io/en/latest/).
 
 Projects
 ------
-
+   * **IARPA Better Extraction from Text Towards Enhanced Retrieval (BETTER)**
+     * Research Assistant, January 2020 - 
+     * I've been building different cross-lingual information extraction systems (with English as the source language) for extracting events in the form of who-did-what-to-whom-when-where, at different granularity levels of information, across various target languages.
 
 Publications
 ------
@@ -35,4 +38,4 @@ Publications
 Academic Service
 ------
 
-**PC**: AAAI'21
+**Program Committee**: AAAI'21
