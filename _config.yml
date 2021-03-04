@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Home"
 title_separator          : "-"
 name                     : &name "Minh Van Nguyen"
-description              : &description "CS PhD student at University of Oregon"
+description              : &description "CS Ph.D. student at University of Oregon"
 url                      : https://minhhdvn.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "minhhdvn/minhhdvn.github.io"
@@ -82,13 +82,13 @@ analytics:
 author:
   name             : "Minh Van Nguyen"
   avatar           : "profile.png"
-  bio              : "PhD Student in Computer and Information Science, University of Oregon."
+  bio              : "CS Ph.D. Student at University of Oregon."
   location         : "Eugene, OR, USA."
   employer         :
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=es1dl7EAAAAJ"
   email            : "minhnv@cs.uoregon.edu"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     :
   uri              :
   bitbucket        :
   codepen          :
