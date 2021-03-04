@@ -58,6 +58,11 @@ Publications (*=equal contribution)
   <ins>**Minh Van Nguyen**</ins>, Toan Nguyen and Thien Huu Nguyen <br>
   **IWSPA'18**: Proceedings of the 1st Anti-Phishing Shared Pilot at 4th ACM International Workshop on Security and Privacy Analytics Academic Service.<br>
   
+
+Teaching
+------
+* **Introduction to Artificial Intelligence** [<a href='https://classes.cs.uoregon.edu/19F/cis471/'>Class Page</a>]
+  * Teaching Assistant.
   
 Academic Service
 ------
