@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Home"
+title                    : "Minh Van Nguyen"
 title_separator          : "-"
 name                     : &name "Minh Van Nguyen"
 description              : &description "CS Ph.D. student at University of Oregon"
