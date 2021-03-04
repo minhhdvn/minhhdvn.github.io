@@ -28,7 +28,7 @@ Softwares
 
 Projects
 ------
-   * **IARPA Better Extraction from Text Towards Enhanced Retrieval (BETTER)**
+   * [**IARPA Better Extraction from Text Towards Enhanced Retrieval (BETTER)**](https://www.iarpa.gov/index.php/research-programs/better)
      * Research Assistant, January 2020 - 
      * I've been building different cross-lingual information extraction systems (with English as the source language) for extracting events in the form of who-did-what-to-whom-when-where, at different granularity levels of information, across various target languages.
 
