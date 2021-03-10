@@ -38,30 +38,33 @@ Publications (*=equal contribution)
 
 ### 2021
 <br>
+* **Cross-Task Instance Representation Interactions and Label Dependencies for Joint Information Extraction with Graph Convolutional Networks** [<a href=''>To Appear</a>] [<a href='http://nlp.uoregon.edu/fourie'>Demo</a>]<br>
+  <ins>**Minh Van Nguyen**</ins>, Viet Lai and Thien Huu Nguyen.<br>
+  Proceedings of the 2021 Conference of the North American Chapter of the Association for Computational Linguistics (**NAACL 2021**).<br>
 
 * **Trankit: A Light-Weight Transformer-based Toolkit for Multilingual Natural Language Processing** [<a href='https://arxiv.org/pdf/2101.03289.pdf'>Paper</a>] [<a href='https://github.com/nlp-uoregon/trankit'>Github</a>] [<a href='http://nlp.uoregon.edu/trankit'>Demo</a>] [<a href='https://trankit.readthedocs.io/en/latest/'>Documentation</a>]<br>
   <ins>**Minh Van Nguyen**</ins>, Viet Lai, Amir Pouran Ben Veyseh and Thien Huu Nguyen.<br>
-  **EACL'21 Demo**: Proceedings of the 16th Conference of the European Chapter of the Association for Computational Linguistics: System Demonstrations.<br>
+  Proceedings of the 16th Conference of the European Chapter of the Association for Computational Linguistics: System Demonstrations (**EACL 2021 Demo**).<br>
 
 * **Improving Cross-Lingual Transfer for Event Argument Extraction with Language-Universal Sentence Structures** [<a href=''>To Appear</a>]<br>
   <ins>**Minh Van Nguyen**</ins> and Thien Huu Nguyen.<br>
-  **WANLP'21**: Proceedings of the 6th Arabic Natural Language Processing Workshop at EACL 2021.<br>
+  Proceedings of the 6th Arabic Natural Language Processing Workshop at EACL 2021 (**WANLP@EACL 2021**).<br>
   
 ### 2018
 <br>
 
 * **Who is Killed by Police: Introducing Supervised Attention for Hierarchical LSTMs** [<a href='https://www.aclweb.org/anthology/C18-1193.pdf'>Paper</a>]<br>
   <ins>**Minh Van Nguyen**</ins> and Thien Huu Nguyen.<br>
-  **COLING'18**: Proceedings of the 27th International Conference on Computational Linguistics.<br>
+  Proceedings of the 27th International Conference on Computational Linguistics (**COLING 2018**).<br>
   
 * **A Deep Learning Model with Hierarchical LSTMs and Supervised Attention for Anti-Phishing** [<a href='https://arxiv.org/pdf/1805.01554.pdf'>Paper</a>]<br>
   <ins>**Minh Van Nguyen**</ins>, Toan Nguyen and Thien Huu Nguyen.<br>
-  **IWSPA'18**: Proceedings of the 1st Anti-Phishing Shared Pilot at 4th ACM International Workshop on Security and Privacy Analytics Academic Service.<br>
+  Proceedings of the 1st Anti-Phishing Shared Pilot at 4th ACM International Workshop on Security and Privacy Analytics Academic Service (**IWSPA 2018**).<br>
   
 
 Teaching
 ------
-* **Introduction to Artificial Intelligence** [<a href='https://classes.cs.uoregon.edu/19F/cis471/'>Class Page</a>]
+* **CIS 471: Introduction to Artificial Intelligence** [<a href='https://classes.cs.uoregon.edu/19F/cis471/'>Class Page</a>]
   * Teaching Assistant, Fall 2019.
   * I was a Teaching Assistant for the class where I helped undergraduate students understand fundamental concepts and problems in Artificial Intelligence.
   
