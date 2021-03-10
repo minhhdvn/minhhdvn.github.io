@@ -70,4 +70,4 @@ Teaching
   
 Academic Service
 ------
-**Program Committee**: AAAI'21
+**Program Committee**: AAAI 2021
