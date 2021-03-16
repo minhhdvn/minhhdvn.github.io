@@ -20,7 +20,7 @@ Education
     * Advisor: Dr. [Linh Ngo Van](https://users.soict.hust.edu.vn/linhnv/).
 
 
-Softwares
+Software
 ------
    * **FourIE**: a neural information extraction system that annotates text for entity mentions (names, pronouns, and nominals of people, organizations, locations, etc), relations (between two entity mentions), event triggers and argument roles using the information schema defined in the ACE 2005 dataset. FourIE leverages deep learning and graph convolutional networks to jointly perform four tasks in information extraction, i.e., entity mention detection, relation extraction, event detection and argument role prediction in an end-to-end fashion. [Demo](http://nlp.uoregon.edu/fourie).
    * **Trankit**: a light-weight transformer-based toolkit for multilingual NLP that can process raw text and support fundamental NLP tasks for 56 languages. Trankit is based on recent advances on multilingual pre-trained language models, providing state-of-the-art performance for Sentence Segmentation, Part-of-Speech Tagging, Morphological Feature Tagging, Dependency Parsing, and Named Entity Recognition over 90 Universal Dependencies treebanks. Trankit is written in Python and can be installed via pip. [Github](https://github.com/nlp-uoregon/trankit), [Demo](http://nlp.uoregon.edu/trankit), [Documentation](https://trankit.readthedocs.io/en/latest/).
