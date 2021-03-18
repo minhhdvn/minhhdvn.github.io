@@ -38,7 +38,7 @@ Publications (*=equal contribution)
 
 ### 2021
 <br>
-* **Cross-Task Instance Representation Interactions and Label Dependencies for Joint Information Extraction with Graph Convolutional Networks** [<a href=''>To Appear</a>] [<a href='http://nlp.uoregon.edu/fourie'>Demo</a>]<br>
+* **Cross-Task Instance Representation Interactions and Label Dependencies for Joint Information Extraction with Graph Convolutional Networks** [<a href='https://arxiv.org/pdf/2103.09330.pdf'>Paper</a>] [<a href='http://nlp.uoregon.edu/fourie'>Demo</a>]<br>
   <ins>**Minh Van Nguyen**</ins>, Viet Lai and Thien Huu Nguyen.<br>
   Proceedings of the 2021 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (**NAACL-HLT 2021**).<br>
 
