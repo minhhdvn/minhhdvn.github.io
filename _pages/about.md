@@ -45,7 +45,7 @@ Publications (*=equal contribution)
 * **Trankit: A Light-Weight Transformer-based Toolkit for Multilingual Natural Language Processing** [<a href='https://arxiv.org/pdf/2101.03289.pdf'>Paper</a>] [<a href='https://github.com/nlp-uoregon/trankit'>Github</a>] [<a href='http://nlp.uoregon.edu/trankit'>Demo</a>] [<a href='https://trankit.readthedocs.io/en/latest/'>Documentation</a>]<br>
   <ins>**Minh Van Nguyen**</ins>, Viet Dac Lai, Amir Pouran Ben Veyseh and Thien Huu Nguyen.<br>
   Proceedings of the 16th Conference of the European Chapter of the Association for Computational Linguistics: System Demonstrations (**EACL 2021 Demo**).<br>
-  (*EACL2021 Outstanding Demo Paper Award*)
+  (<ins>*EACL2021 Outstanding Demo Paper Award*</ins>)
 
 * **Improving Cross-Lingual Transfer for Event Argument Extraction with Language-Universal Sentence Structures** [<a href=''>To Appear</a>]<br>
   <ins>**Minh Van Nguyen**</ins> and Thien Huu Nguyen.<br>
