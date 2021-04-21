@@ -64,7 +64,7 @@ Publications (*=equal contribution)
   
 * **A Deep Learning Model with Hierarchical LSTMs and Supervised Attention for Anti-Phishing** [<a href='https://arxiv.org/pdf/1805.01554.pdf'>Paper</a>]<br>
   <ins>**Minh Van Nguyen**</ins>, Toan Nguyen and Thien Huu Nguyen.<br>
-  Proceedings of the 1st Anti-Phishing Shared Pilot at 4th ACM International Workshop on Security and Privacy Analytics Academic Service (**IWSPA 2018**).<br>
+  Proceedings of the 1st Anti-Phishing Shared Pilot at 4th ACM International Workshop on Security and Privacy Analytics Academic Service (**IWSPA@CODASPY 2018**).<br>
   
 
 Teaching
