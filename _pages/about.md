@@ -16,7 +16,7 @@ Education
     * Ph.D. in Computer and Information Science, 2019 - .
     * Advisor: Prof. [Thien Huu Nguyen](https://ix.cs.uoregon.edu/~thien/).
   * **Hanoi University of Science and Technology**
-    * B.E. in Computer Science, 2014 - 2019.
+    * B.S. in Computer Science, 2014 - 2019.
     * Advisor: Dr. [Linh Ngo Van](https://users.soict.hust.edu.vn/linhnv/).
 
 
