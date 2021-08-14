@@ -80,13 +80,14 @@ Teaching
 * **CIS 471: Introduction to Artificial Intelligence** [<a href='https://classes.cs.uoregon.edu/19F/cis471/'>Class Page</a>]
   * Teaching Assistant, Fall 2019.
   * I was a Teaching Assistant for the class where I helped undergraduate students understand fundamental concepts and problems in Artificial Intelligence.
-  
-Academic Service
-------
-**Program Committee**: SDU@AAAI 2021, AAAI 2021, EMNLP 2021, Neural Computing Journal.
 
 
 Honors and Awards
 ------
 * Outstanding Demo Paper Award, EACL 2021.
-* Erwin & Gertrude Juilfs Scholarship, University of Oregon, 2021. 
+* Erwin & Gertrude Juilfs Scholarship, University of Oregon, 2021.
+
+  
+Academic Service
+------
+**Program Committee**: SDU@AAAI 2021, AAAI 2021, EMNLP 2021, Neural Computing Journal.
