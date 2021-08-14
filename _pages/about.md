@@ -84,3 +84,9 @@ Teaching
 Academic Service
 ------
 **Program Committee**: SDU@AAAI 2021, AAAI 2021, EMNLP 2021, Neural Computing Journal.
+
+
+Honors and Awards
+------
+* Outstanding Demo Paper Award, EACL 2021.
+* Erwin & Gertrude Juilfs Scholarship, University of Oregon, 2021. 
