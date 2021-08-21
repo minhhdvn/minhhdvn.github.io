@@ -50,15 +50,15 @@ Publications (*=equal contribution)
   Proceedings of the 16th Conference of the European Chapter of the Association for Computational Linguistics: System Demonstrations (**EACL 2021 Demo**).<br>
   (<ins>*EACL2021 Outstanding Demo Paper Award*</ins>)
 
-* **Improving Cross-Lingual Transfer for Event Argument Extraction with Language-Universal Sentence Structures** [<a href=''>To Appear</a>]<br>
+* **Improving Cross-Lingual Transfer for Event Argument Extraction with Language-Universal Sentence Structures** [<a href='https://aclanthology.org/2021.wanlp-1.27.pdf'>Paper</a>]<br>
   <ins>**Minh Van Nguyen**</ins> and Thien Huu Nguyen.<br>
   Proceedings of the 6th Arabic Natural Language Processing Workshop at EACL 2021 (**WANLP@EACL 2021**).<br>
 
-* **Graph Learning Regularization and Transfer Learning for Few-Shot Event Detection** [<a href=''>To Appear</a>]<br>
+* **Graph Learning Regularization and Transfer Learning for Few-Shot Event Detection** [<a href='https://dl.acm.org/doi/abs/10.1145/3404835.3463054'>Paper</a>]<br>
   Viet Dac Lai, <ins>**Minh Van Nguyen**</ins>, Thien Huu Nguyen, and Franck Dernoncourt.<br>
   Proceedings of the 44th International ACM SIGIR Conference on Research and Development in Information Retrieval (**SIGIR 2021**).<br>
 
-* **Event Extraction from Historical Texts: A New Dataset for Back Rebellions** [<a href=''>To Appear</a>]<br>
+* **Event Extraction from Historical Texts: A New Dataset for Back Rebellions** [<a href='https://aclanthology.org/2021.findings-acl.211.pdf'>Paper</a>]<br>
   Viet Dac Lai, <ins>**Minh Van Nguyen**</ins>, Heidi Kaufman, and Thien Huu Nguyen.<br>
   Proceedings of the Joint Conference of the 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing (**Findings ACL-IJCNLP 2021**).<br>
 
