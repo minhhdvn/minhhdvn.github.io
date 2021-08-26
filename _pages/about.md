@@ -10,7 +10,7 @@ redirect_from:
 
 I am a Ph.D. student in Computer and Information Science at [University of Oregon](https://www.uoregon.edu/), working with Prof. [Thien Huu Nguyen](https://ix.cs.uoregon.edu/~thien/) in the [UONLP lab](http://nlp.uoregon.edu/) in Multilingual Natural Language Processing with the focus on Information Extraction. Before starting my Ph.D., I received my bachelor's degree in Computer Science from [Hanoi University of Science and Technology](https://en.hust.edu.vn/home) and was a member of the [DS lab](http://ds.soict.hust.edu.vn/) under the supervision of Prof. [Khoat Than](https://users.soict.hust.edu.vn/khoattq/) and Dr. [Linh Ngo Van](https://users.soict.hust.edu.vn/linhnv/).
 
-[comment]: <> (**News**: *I am looking for an internship for the Summer 2022. Please contact me if you are interested.*)
+**News**: *I am looking for an internship for the Summer 2022. Please contact me if you are interested.*
 
 Education
 ------
@@ -41,6 +41,11 @@ Publications (*=equal contribution)
 
 ### 2021
 <br>
+
+* **Crosslingual Transfer Learning for Relation and Event Extraction via Word Category and Class Alignments** [<a href=''>To Appear</a>]<br>
+  <ins>**Minh Van Nguyen**</ins>, Tuan Ngo Nguyen, Bonan Min and Thien Huu Nguyen.<br>
+  Proceedings of the 2021 Conference on Empirical Methods in Natural Language Processing (**EMNLP 2021**).<br>
+
 * **Cross-Task Instance Representation Interactions and Label Dependencies for Joint Information Extraction with Graph Convolutional Networks** [<a href='https://arxiv.org/pdf/2103.09330.pdf'>Paper</a>] [<a href='http://nlp.uoregon.edu/fourie'>Demo</a>]<br>
   <ins>**Minh Van Nguyen**</ins>, Viet Dac Lai and Thien Huu Nguyen.<br>
   Proceedings of the 2021 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (**NAACL-HLT 2021**).<br>
@@ -53,6 +58,14 @@ Publications (*=equal contribution)
 * **Improving Cross-Lingual Transfer for Event Argument Extraction with Language-Universal Sentence Structures** [<a href='https://aclanthology.org/2021.wanlp-1.27.pdf'>Paper</a>]<br>
   <ins>**Minh Van Nguyen**</ins> and Thien Huu Nguyen.<br>
   Proceedings of the 6th Arabic Natural Language Processing Workshop at EACL 2021 (**WANLP@EACL 2021**).<br>
+
+* **Modeling Document-Level Context for Event Detection via Important Context Selection** [<a href=''>To Appear</a>]<br>
+  Amir Pouran Ben Veyseh, <ins>**Minh Van Nguyen**</ins>, Nghia Ngo Trung, Bonan Min and Thien Huu Nguyen.<br>
+  Proceedings of the 2021 Conference on Empirical Methods in Natural Language Processing (**EMNLP 2021**).<br>
+
+* **Augmenting Open-Domain Event Detection with Synthetic Data from GPT-2** [<a href=''>To Appear</a>]<br>
+  Amir Pouran Ben Veyseh, <ins>**Minh Van Nguyen**</ins>, Bonan Min and Thien Huu Nguyen.<br>
+  Proceedings of the European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (**ECML PKDD 2021**).<br>
 
 * **Graph Learning Regularization and Transfer Learning for Few-Shot Event Detection** [<a href='https://dl.acm.org/doi/abs/10.1145/3404835.3463054'>Paper</a>]<br>
   Viet Dac Lai, <ins>**Minh Van Nguyen**</ins>, Thien Huu Nguyen, and Franck Dernoncourt.<br>
