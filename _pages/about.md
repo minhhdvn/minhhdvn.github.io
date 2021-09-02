@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-** *News: I am looking for an internship for the Summer 2022. Please contact me if you are interested.* **
+***News: I am looking for an internship for the Summer 2022. Please contact me if you are interested.***
 
 I am a Ph.D. student in Computer and Information Science at the [University of Oregon](https://www.uoregon.edu/), working with Prof. [Thien Huu Nguyen](https://ix.cs.uoregon.edu/~thien/) in the [UONLP lab](http://nlp.uoregon.edu/) in Multilingual Natural Language Processing with the focus on Information Extraction. Before starting my Ph.D., I received my bachelor's degree in Computer Science from the [Hanoi University of Science and Technology](https://en.hust.edu.vn/home) and was a member of the [DS lab](http://ds.soict.hust.edu.vn/) under the supervision of Prof. [Khoat Than](https://users.soict.hust.edu.vn/khoattq/) and Dr. [Linh Ngo Van](https://users.soict.hust.edu.vn/linhnv/).
 
