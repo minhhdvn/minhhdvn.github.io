@@ -55,6 +55,10 @@ Publications (*=equal contribution)
   Proceedings of the 16th Conference of the European Chapter of the Association for Computational Linguistics: System Demonstrations (**EACL 2021 Demo**).<br>
   (<ins>*EACL2021 Outstanding Demo Paper Award*</ins>)
 
+* **Fine-grained Temporal Relation Extraction with Ordered-Neuron LSTM and Graph Convolutional Networks** [<a href=''>To Appear</a>]<br>
+  Minh Phu Tran*, <ins>**Minh Van Nguyen**</ins>*, and Thien Huu Nguyen.<br>
+  Proceedings of the 7th Workshop on Noisy User-generated Text at EMNLP 2021 (**WNUT@EMNLP 2021**).<br>
+
 * **Improving Cross-Lingual Transfer for Event Argument Extraction with Language-Universal Sentence Structures** [<a href='https://aclanthology.org/2021.wanlp-1.27.pdf'>Paper</a>]<br>
   <ins>**Minh Van Nguyen**</ins> and Thien Huu Nguyen.<br>
   Proceedings of the 6th Arabic Natural Language Processing Workshop at EACL 2021 (**WANLP@EACL 2021**).<br>
@@ -63,6 +67,14 @@ Publications (*=equal contribution)
   Amir Pouran Ben Veyseh, <ins>**Minh Van Nguyen**</ins>, Nghia Ngo Trung, Bonan Min and Thien Huu Nguyen.<br>
   Proceedings of the 2021 Conference on Empirical Methods in Natural Language Processing (**EMNLP 2021**).<br>
 
+* **Event Extraction from Historical Texts: A New Dataset for Back Rebellions** [<a href='https://aclanthology.org/2021.findings-acl.211.pdf'>Paper</a>]<br>
+  Viet Dac Lai, <ins>**Minh Van Nguyen**</ins>, Heidi Kaufman, and Thien Huu Nguyen.<br>
+  Proceedings of the Joint Conference of the 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing (**Findings ACL-IJCNLP 2021**).<br>
+
+* **Learning Cross-lingual Representations for Event Coreference Resolution with Multi-view Alignment and Optimal Transport** [<a href=''>To Appear</a>]<br>
+  Duy Phung, Hieu Minh Tran, <ins>**Minh Van Nguyen**</ins>, and Thien Huu Nguyen.<br>
+  Proceedings of the 1st Workshop on Multilingual Representation Learning at EMNLP 2021 (**MRL@EMNLP 2021**).<br>
+
 * **Augmenting Open-Domain Event Detection with Synthetic Data from GPT-2** [<a href=''>To Appear</a>]<br>
   Amir Pouran Ben Veyseh, <ins>**Minh Van Nguyen**</ins>, Bonan Min and Thien Huu Nguyen.<br>
   Proceedings of the European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (**ECML PKDD 2021**).<br>
@@ -70,10 +82,6 @@ Publications (*=equal contribution)
 * **Graph Learning Regularization and Transfer Learning for Few-Shot Event Detection** [<a href='https://dl.acm.org/doi/abs/10.1145/3404835.3463054'>Paper</a>]<br>
   Viet Dac Lai, <ins>**Minh Van Nguyen**</ins>, Thien Huu Nguyen, and Franck Dernoncourt.<br>
   Proceedings of the 44th International ACM SIGIR Conference on Research and Development in Information Retrieval (**SIGIR 2021**).<br>
-
-* **Event Extraction from Historical Texts: A New Dataset for Back Rebellions** [<a href='https://aclanthology.org/2021.findings-acl.211.pdf'>Paper</a>]<br>
-  Viet Dac Lai, <ins>**Minh Van Nguyen**</ins>, Heidi Kaufman, and Thien Huu Nguyen.<br>
-  Proceedings of the Joint Conference of the 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing (**Findings ACL-IJCNLP 2021**).<br>
 
   
 ### 2018
