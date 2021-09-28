@@ -56,7 +56,7 @@ Publications (*=equal contribution)
   (<ins>*EACL2021 Outstanding Demo Paper Award*</ins>)
 
 * **Fine-grained Temporal Relation Extraction with Ordered-Neuron LSTM and Graph Convolutional Networks** [<a href=''>To Appear</a>]<br>
-  Minh Phu Tran*, <ins>**Minh Van Nguyen**</ins>*, and Thien Huu Nguyen.<br>
+  Minh Phu Tran *, <ins>**Minh Van Nguyen**</ins> *, and Thien Huu Nguyen.<br>
   Proceedings of the 7th Workshop on Noisy User-generated Text at EMNLP 2021 (**WNUT@EMNLP 2021**).<br>
 
 * **Improving Cross-Lingual Transfer for Event Argument Extraction with Language-Universal Sentence Structures** [<a href='https://aclanthology.org/2021.wanlp-1.27.pdf'>Paper</a>]<br>
