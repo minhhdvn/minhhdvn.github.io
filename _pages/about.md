@@ -24,16 +24,16 @@ Education
 
 Experience
 ------
-* Research Scientist Intern:
+* **Research Scientist Intern**
     * Starting 2022 July.
     * [Adobe Research](https://research.adobe.com/).
 
-* Research Assistant:
+* **Research Assistant**
     * January 2020 - .
     * [IARPA Better Extraction from Text Towards Enhanced Retrieval (BETTER)](https://www.iarpa.gov/index.php/research-programs/better).
     * I've been building different cross-lingual information extraction systems (with English as the source language) for extracting events in the form of who-did-what-to-whom-when-where, at different granularity levels of information, across various target languages (e.g., Arabic, Farsi).
 
-* Teach Assistant: 
+* **Teach Assistant**
     * September 2019 - December 2019.
     * [<a href='https://classes.cs.uoregon.edu/19F/cis471/'>CIS 471: Introduction to Artificial Intelligence</a>].
     * I helped undergraduate students understand fundamental concepts and problems in Artificial Intelligence.
