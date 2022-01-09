@@ -8,8 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-***News: I am looking for an internship for the Summer 2022. Please contact me if you are interested.***
-
 I am a third-year Ph.D. student in Computer and Information Science at the [University of Oregon](https://www.uoregon.edu/). I have been working with Prof. [Thien Huu Nguyen](https://ix.cs.uoregon.edu/~thien/) in the [UONLP lab](http://nlp.uoregon.edu/) in Multilingual Natural Language Processing with the focus on Information Extraction, whose goal is to develop systems for extracting structured information from unstructured text in different languages. Two recent notable projects, where I am the lead author, are [Trankit](https://github.com/nlp-uoregon/trankit) (a state-of-the-art multilingual NLP toolkit for 56 languages) and [FourIE](http://nlp.uoregon.edu/fourie) (a state-of-the-art multilingual joint IE system for English, Chinese, and Spanish). I am also a research assistant for the [IARPA’s BETTER project](https://www.iarpa.gov/index.php/research-programs/better), where I have been building systems to extract events and arguments of different granularities (i.e., Abstract, Basic, and Granular level) from English, Arabic, and Farsi text. 
 
 Before starting my Ph.D., I received my bachelor's degree in Computer Science from the [Hanoi University of Science and Technology](https://en.hust.edu.vn/home) and was a member of the [DS lab](http://ds.soict.hust.edu.vn/) under the supervision of Prof. [Khoat Than](https://users.soict.hust.edu.vn/khoattq/) and Dr. [Linh Ngo Van](https://users.soict.hust.edu.vn/linhnv/).
@@ -22,6 +20,23 @@ Education
   * **Hanoi University of Science and Technology**
     * B.S. in Computer Science, 2014 - 2019.
     * Advisor: Dr. [Linh Ngo Van](https://users.soict.hust.edu.vn/linhnv/).
+
+
+Experience
+------
+* Teach Assistant: 
+    * September 2019 - December 2019.
+    * [<a href='https://classes.cs.uoregon.edu/19F/cis471/'>CIS 471: Introduction to Artificial Intelligence</a>].
+    * I helped undergraduate students understand fundamental concepts and problems in Artificial Intelligence.
+
+* Research Assistant: 
+    * January 2020 - .
+    * [IARPA Better Extraction from Text Towards Enhanced Retrieval (BETTER)](https://www.iarpa.gov/index.php/research-programs/better).
+    * I've been building different cross-lingual information extraction systems (with English as the source language) for extracting events in the form of who-did-what-to-whom-when-where, at different granularity levels of information, across various target languages (e.g., Arabic, Farsi).
+
+* Research Scientist Intern:
+    * Starting 2022 July.
+    * [Adobe Research](https://research.adobe.com/).
 
 
 Publications (*=equal contribution)
@@ -91,22 +106,9 @@ I am the lead author of the following software:
    * **Trankit**: a light-weight transformer-based toolkit for multilingual NLP that can process raw text and support fundamental NLP tasks for 56 languages. Trankit is based on recent advances on multilingual pre-trained language models, providing state-of-the-art performance for Sentence Segmentation, Part-of-Speech Tagging, Morphological Feature Tagging, Dependency Parsing, and Named Entity Recognition over 90 Universal Dependencies treebanks. Trankit is written in Python and can be installed via pip. [Github](https://github.com/nlp-uoregon/trankit), [Demo](http://nlp.uoregon.edu/trankit), [Documentation](https://trankit.readthedocs.io/en/latest/).
 
 
-Projects
-------
-   * [**IARPA Better Extraction from Text Towards Enhanced Retrieval (BETTER)**](https://www.iarpa.gov/index.php/research-programs/better)
-     * Research Assistant, January 2020 - .
-     * I am a Research Assistant for the project where I've been building different cross-lingual information extraction systems (with English as the source language) for extracting events in the form of who-did-what-to-whom-when-where, at different granularity levels of information, across various target languages (e.g., Arabic, Farsi).
-
-
 Skills
 ------
 Python, Pytorch, Numpy, Scikit-learn, Bash/Shell, Vim, Tmux, Git, Docker, Linux Operating System.
-
-Teaching
-------
-* **CIS 471: Introduction to Artificial Intelligence** [<a href='https://classes.cs.uoregon.edu/19F/cis471/'>Class Page</a>]
-  * Teaching Assistant, Fall 2019.
-  * I was a Teaching Assistant for the class where I helped undergraduate students understand fundamental concepts and problems in Artificial Intelligence.
 
 
 Honors and Awards
