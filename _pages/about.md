@@ -25,7 +25,7 @@ Education
 Experience
 ------
 * **Research Scientist Intern**
-    * Starting 2022 July.
+    * July 2022 - .
     * [Adobe Research](https://research.adobe.com/).
 
 * **Research Assistant**
