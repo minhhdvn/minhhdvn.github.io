@@ -15,7 +15,7 @@ Before starting my Ph.D., I received my bachelor's degree in Computer Science fr
 Education
 ------
   * **University of Oregon**
-    * Ph.D. in Computer and Information Science, 2019 - .
+    * Ph.D. in Computer and Information Science, 2019 - 2024 (Expected).
     * Advisor: Prof. [Thien Huu Nguyen](https://ix.cs.uoregon.edu/~thien/).
   * **Hanoi University of Science and Technology**
     * B.S. in Computer Science, 2014 - 2019.
