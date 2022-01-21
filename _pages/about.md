@@ -45,11 +45,11 @@ Publications (*=equal contribution)
 ### 2021
 <br>
 
-* **Crosslingual Transfer Learning for Relation and Event Extraction via Word Category and Class Alignments** [<a href=''>To Appear</a>]<br>
+* **Crosslingual Transfer Learning for Relation and Event Extraction via Word Category and Class Alignments** [<a href='https://aclanthology.org/2021.emnlp-main.440.pdf'>Paper</a>]<br>
   <ins>**Minh Van Nguyen**</ins>, Tuan Ngo Nguyen, Bonan Min and Thien Huu Nguyen.<br>
   Proceedings of the 2021 Conference on Empirical Methods in Natural Language Processing (**EMNLP 2021**).<br>
 
-* **Modeling Document-Level Context for Event Detection via Important Context Selection** [<a href=''>To Appear</a>]<br>
+* **Modeling Document-Level Context for Event Detection via Important Context Selection** [<a href='https://aclanthology.org/2021.emnlp-main.439.pdf'>Paper</a>]<br>
   Amir Pouran Ben Veyseh, <ins>**Minh Van Nguyen**</ins>, Nghia Ngo Trung, Bonan Min and Thien Huu Nguyen.<br>
   Proceedings of the 2021 Conference on Empirical Methods in Natural Language Processing (**EMNLP 2021**).<br>
 
@@ -66,7 +66,7 @@ Publications (*=equal contribution)
   Viet Dac Lai, <ins>**Minh Van Nguyen**</ins>, Heidi Kaufman, and Thien Huu Nguyen.<br>
   Proceedings of the Joint Conference of the 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing (**Findings ACL-IJCNLP 2021**).<br>
 
-* **Augmenting Open-Domain Event Detection with Synthetic Data from GPT-2** [<a href=''>To Appear</a>]<br>
+* **Augmenting Open-Domain Event Detection with Synthetic Data from GPT-2** [<a href='https://link.springer.com/chapter/10.1007/978-3-030-86523-8_39'>Paper</a>]<br>
   Amir Pouran Ben Veyseh, <ins>**Minh Van Nguyen**</ins>, Bonan Min and Thien Huu Nguyen.<br>
   Proceedings of the European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (**ECML PKDD 2021**).<br>
 
@@ -74,7 +74,7 @@ Publications (*=equal contribution)
   Viet Dac Lai, <ins>**Minh Van Nguyen**</ins>, Thien Huu Nguyen, and Franck Dernoncourt.<br>
   Proceedings of the 44th International ACM SIGIR Conference on Research and Development in Information Retrieval (**SIGIR 2021**).<br>
 
-* **Fine-grained Temporal Relation Extraction with Ordered-Neuron LSTM and Graph Convolutional Networks** [<a href=''>To Appear</a>]<br>
+* **Fine-grained Temporal Relation Extraction with Ordered-Neuron LSTM and Graph Convolutional Networks** [<a href='https://aclanthology.org/2021.wnut-1.5.pdf'>Paper</a>]<br>
   Minh Phu Tran *, <ins>**Minh Van Nguyen**</ins> *, and Thien Huu Nguyen.<br>
   Proceedings of the 7th Workshop on Noisy User-generated Text at EMNLP 2021 (**WNUT@EMNLP 2021**).<br>
 
@@ -82,7 +82,7 @@ Publications (*=equal contribution)
   <ins>**Minh Van Nguyen**</ins> and Thien Huu Nguyen.<br>
   Proceedings of the 6th Arabic Natural Language Processing Workshop at EACL 2021 (**WANLP@EACL 2021**).<br>
 
-* **Learning Cross-lingual Representations for Event Coreference Resolution with Multi-view Alignment and Optimal Transport** [<a href=''>To Appear</a>]<br>
+* **Learning Cross-lingual Representations for Event Coreference Resolution with Multi-view Alignment and Optimal Transport** [<a href='https://aclanthology.org/2021.mrl-1.6.pdf'>Paper</a>]<br>
   Duy Phung, Hieu Minh Tran, <ins>**Minh Van Nguyen**</ins>, and Thien Huu Nguyen.<br>
   Proceedings of the 1st Workshop on Multilingual Representation Learning at EMNLP 2021 (**MRL@EMNLP 2021**).<br>
 
