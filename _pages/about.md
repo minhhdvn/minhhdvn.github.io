@@ -42,6 +42,25 @@ Experience
 Publications (*=equal contribution)
 ------
 
+### 2022
+<br>
+
+* **Joint Extraction of Entities, Relations, and Events via Modeling Inter-Instance and Inter-Label Dependencies** [<a href=''>To Appear</a>]<br>
+  <ins>**Minh Van Nguyen**</ins>, Bonan Min, Franck Dernoncourt, and Thien Huu Nguyen.<br>
+  Proceedings of the 2022 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (**NAACL-HLT 2022**).<br>
+
+* **Cross-Lingual Event Detection via Optimized Adversarial Training** [<a href=''>To Appear</a>]<br>
+  Luis Fernando Guzman-Nateras, <ins>**Minh Van Nguyen**</ins>, and Thien Huu Nguyen.<br>
+  Proceedings of the 2022 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (**NAACL-HLT 2022**).<br>
+
+* **MINION: a Large-Scale and Diverse Dataset for Multilingual Event Detection** [<a href=''>To Appear</a>]<br>
+  Amir Pouran Ben Veyseh, <ins>**Minh Van Nguyen**</ins>, Franck Dernoncourt, and Thien Huu Nguyen.<br>
+  Proceedings of the 2022 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (**NAACL-HLT 2022**).<br>
+
+* **Document-Level Event Argument Extraction via Optimal Transport** [<a href=''>To Appear</a>]<br>
+  Amir Pouran Ben Veyseh, <ins>**Minh Van Nguyen**</ins>, Franck Dernoncourt, Bonan Min, and Thien Huu Nguyen.<br>
+  Findings of the 60th Annual Meeting of the Association for Computational Linguistics (**Findings ACL 2022**).<br>
+
 ### 2021
 <br>
 
@@ -64,7 +83,7 @@ Publications (*=equal contribution)
 
 * **Event Extraction from Historical Texts: A New Dataset for Back Rebellions** [<a href='https://aclanthology.org/2021.findings-acl.211.pdf'>Paper</a>]<br>
   Viet Dac Lai, <ins>**Minh Van Nguyen**</ins>, Heidi Kaufman, and Thien Huu Nguyen.<br>
-  Proceedings of the Joint Conference of the 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing (**Findings ACL-IJCNLP 2021**).<br>
+  Findings of the Joint Conference of the 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing (**Findings ACL-IJCNLP 2021**).<br>
 
 * **Augmenting Open-Domain Event Detection with Synthetic Data from GPT-2** [<a href='https://link.springer.com/chapter/10.1007/978-3-030-86523-8_39'>Paper</a>]<br>
   Amir Pouran Ben Veyseh, <ins>**Minh Van Nguyen**</ins>, Bonan Min and Thien Huu Nguyen.<br>
