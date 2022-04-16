@@ -10,7 +10,6 @@ redirect_from:
 
 I am a third-year Ph.D. student in Computer and Information Science at the [University of Oregon](https://www.uoregon.edu/). I have been working with Prof. [Thien Huu Nguyen](https://ix.cs.uoregon.edu/~thien/) in the [UONLP lab](http://nlp.uoregon.edu/) in Multilingual Information Extraction, which aims to develop systems for extracting structured information from unstructured text in different languages. Recent notable projects, where I am the lead author, are [Trankit](https://github.com/nlp-uoregon/trankit) (a state-of-the-art multilingual NLP toolkit for 56 languages), [FourIE](http://nlp.uoregon.edu/fourie) (a state-of-the-art multilingual joint IE system for English, Chinese, and Spanish), and [FAMIE](https://github.com/nlp-uoregon/famie) (a fast active learning framework for multilingual IE). I am also a research assistant for the [IARPA’s BETTER project](https://www.iarpa.gov/index.php/research-programs/better), where I have been building systems to extract events and arguments of different granularities (i.e., Abstract, Basic, and Granular levels) from English, Arabic, Farsi, Chinese, Russian, and Korean text. 
 
-Before starting my Ph.D., I received my bachelor's degree in Computer Science from the [Hanoi University of Science and Technology](https://en.hust.edu.vn/home) and was a member of the [DS lab](http://ds.soict.hust.edu.vn/) under the supervision of Prof. [Khoat Than](https://users.soict.hust.edu.vn/khoattq/) and Dr. [Linh Ngo Van](https://users.soict.hust.edu.vn/linhnv/).
 
 Education
 ------
