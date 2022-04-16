@@ -8,8 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a third-year Ph.D. student in Computer and Information Science at the [University of Oregon](https://www.uoregon.edu/). I have been working with Prof. [Thien Huu Nguyen](https://ix.cs.uoregon.edu/~thien/) in the [UONLP lab](http://nlp.uoregon.edu/) in Multilingual Information Extraction, which aims to develop systems for extracting structured information from unstructured text in different languages. Recent notable projects, where I am the lead author, are [Trankit](https://github.com/nlp-uoregon/trankit) (a state-of-the-art multilingual NLP toolkit for 56 languages), [FourIE](http://nlp.uoregon.edu/fourie) (a state-of-the-art multilingual joint IE system for English, Chinese, and Spanish), and [FAMIE](https://github.com/nlp-uoregon/famie) (a fast active learning framework for multilingual IE). I am also a research assistant for the [IARPA’s BETTER project](https://www.iarpa.gov/index.php/research-programs/better), where I have been building systems to extract events and arguments of different granularities (i.e., Abstract, Basic, and Granular levels) from English, Arabic, Farsi, Chinese, Russian, and Korean text. 
+I am a third-year Ph.D. student in Computer and Information Science at the [University of Oregon](https://www.uoregon.edu/). I have been working with Prof. [Thien Huu Nguyen](https://ix.cs.uoregon.edu/~thien/) in the [UONLP lab](http://nlp.uoregon.edu/) in Multilingual Information Extraction (Multilingual IE), which aims to develop systems for extracting structured information from unstructured text in different languages. Recent notable projects, where I am the lead author, are [Trankit](https://github.com/nlp-uoregon/trankit) (a state-of-the-art multilingual NLP toolkit for 56 languages), [FourIE](http://nlp.uoregon.edu/fourie) (a state-of-the-art multilingual joint IE system for English, Chinese, and Spanish), and [FAMIE](https://github.com/nlp-uoregon/famie) (a fast active learning framework for multilingual IE). I am also a research assistant for the [IARPA’s BETTER project](https://www.iarpa.gov/index.php/research-programs/better), where I have been building systems to extract events and arguments of different granularities (i.e., Abstract, Basic, and Granular levels) from English, Arabic, Farsi, Chinese, Russian, and Korean text. 
 
+Pursuing Multilingual IE, my ultimate goal is to expand the application of IE (e.g., news summarization, information retrieval) to many languages, and contribute to the democratization of IE across the languages. I believe this can give equal access of information to people speaking different languages in the world.
 
 Education
 ------
@@ -30,12 +31,10 @@ Experience
 * **Research Assistant**
     * January 2020 - .
     * [IARPA Better Extraction from Text Towards Enhanced Retrieval (BETTER)](https://www.iarpa.gov/index.php/research-programs/better).
-    * I've been building different cross-lingual information extraction systems (with English as the source language) for extracting events in the form of who-did-what-to-whom-when-where, at different granularity levels of information, across various target languages (e.g., Arabic, Farsi).
 
 * **Teach Assistant**
     * September 2019 - December 2019.
     * [<a href='https://classes.cs.uoregon.edu/19F/cis471/'>CIS 471: Introduction to Artificial Intelligence</a>].
-    * I helped undergraduate students understand fundamental concepts and problems in Artificial Intelligence.
 
 
 Publications (*=equal contribution)
