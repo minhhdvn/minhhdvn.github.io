@@ -44,7 +44,6 @@ Publications (*=equal contribution)
 <br>
 
 * **FAMIE: A Fast Active Learning Framework for Multilingual Information Extraction** [<a href='https://arxiv.org/pdf/2202.08316.pdf'>Paper</a>] [<a href='https://github.com/nlp-uoregon/famie'>Github</a>] [<a href='http://nlp.uoregon.edu:9000'>Demo</a>] [<a href='https://famie.readthedocs.io/en/latest/'>Documentation</a>]<br>
-
   <ins>**Minh Van Nguyen**</ins>, Nghia Trung Ngo, Bonan Min, and Thien Huu Nguyen.<br>
   Proceedings of **NAACL-HLT 2022** (System Demonstrations).<br>
 
