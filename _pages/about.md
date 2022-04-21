@@ -43,6 +43,10 @@ Publications (*=equal contribution)
 ### 2022
 <br>
 
+* **FAMIE: A Fast Active Learning Framework for Multilingual Information Extraction** [<a href=''>To Appear</a>]<br>
+  <ins>**Minh Van Nguyen**</ins>, Nghia Trung Ngo, Bonan Min, and Thien Huu Nguyen.<br>
+  Proceedings of **NAACL-HLT 2022** (System Demonstrations).<br>
+
 * **Joint Extraction of Entities, Relations, and Events via Modeling Inter-Instance and Inter-Label Dependencies** [<a href=''>To Appear</a>]<br>
   <ins>**Minh Van Nguyen**</ins>, Bonan Min, Franck Dernoncourt, and Thien Huu Nguyen.<br>
   Proceedings of **NAACL-HLT 2022**.<br>
@@ -76,7 +80,7 @@ Publications (*=equal contribution)
 
 * **Trankit: A Light-Weight Transformer-based Toolkit for Multilingual Natural Language Processing** [<a href='https://www.aclweb.org/anthology/2021.eacl-demos.10.pdf'>Paper</a>] [<a href='https://github.com/nlp-uoregon/trankit'>Github</a>] [<a href='http://nlp.uoregon.edu/trankit'>Demo</a>] [<a href='https://trankit.readthedocs.io/en/latest/'>Documentation</a>]<br>
   <ins>**Minh Van Nguyen**</ins>, Viet Dac Lai, Amir Pouran Ben Veyseh and Thien Huu Nguyen.<br>
-  Proceedings of **EACL 2021** (Demonstration Systems).<br>
+  Proceedings of **EACL 2021** (System Demonstrations).<br>
   (<ins>*EACL2021 Outstanding Demo Paper Award*</ins>)
 
 * **Event Extraction from Historical Texts: A New Dataset for Back Rebellions** [<a href='https://aclanthology.org/2021.findings-acl.211.pdf'>Paper</a>]<br>
