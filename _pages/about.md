@@ -63,6 +63,10 @@ Publications (*=equal contribution)
   Amir Pouran Ben Veyseh, <ins>**Minh Van Nguyen**</ins>, Franck Dernoncourt, Bonan Min, and Thien Huu Nguyen.<br>
   Proceedings of **ACL 2022** (Findings).<br>
 
+* **Event Causality Identification via Generation of Important Context Words** [<a href=''>To Appear</a>]<br>
+  Hieu Man Duc Trong, <ins>**Minh Van Nguyen**</ins>, and Thien Huu Nguyen.<br>
+  Proceedings of the 11th Joint Conference on Lexical and Computational Semantics (*SEM 2022) at NAACL-HLT 2022.<br>
+
 ### 2021
 <br>
 
