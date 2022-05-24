@@ -15,7 +15,7 @@ Pursuing Multilingual IE, my ultimate goal is to expand the application of IE (e
 Education
 ------
   * **University of Oregon**
-    * Ph.D. in Computer and Information Science, 2019 - 2024 (Expected).
+    * Ph.D. in Computer and Information Science, 2019 - Present.
     * Advisor: Prof. [Thien Huu Nguyen](https://ix.cs.uoregon.edu/~thien/).
   * **Hanoi University of Science and Technology**
     * B.E. in Information Systems, 2014 - 2019.
