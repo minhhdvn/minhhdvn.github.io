@@ -143,6 +143,7 @@ Honors and Awards
 ------
 * Outstanding Demo Paper Award, EACL 2021.
 * Erwin & Gertrude Juilfs Scholarship, University of Oregon, 2021.
+* Gurdeep Pall Graduate Student Fellowship, University of Oregon, 2022.
 
   
 Academic Service
