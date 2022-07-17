@@ -8,9 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a third-year Ph.D. student in Computer and Information Science at the [University of Oregon](https://www.uoregon.edu/). I have been working with Prof. [Thien Huu Nguyen](https://ix.cs.uoregon.edu/~thien/) in the [UONLP lab](http://nlp.uoregon.edu/) in Multilingual Information Extraction (Multilingual IE), which aims to develop systems for extracting structured information from unstructured text in different languages. Recent notable projects, where I am the lead author, are [Trankit](https://github.com/nlp-uoregon/trankit) (a state-of-the-art multilingual NLP toolkit for 56 languages), [FourIE](http://nlp.uoregon.edu/fourie) (a state-of-the-art multilingual joint IE system for English, Chinese, and Spanish), and [FAMIE](https://github.com/nlp-uoregon/famie) (a fast active learning framework for multilingual IE for 100 languages). I am also a research assistant for the [IARPA’s BETTER project](https://www.iarpa.gov/index.php/research-programs/better), where I have been building systems to extract events and arguments of different granularities (i.e., Abstract, Basic, and Granular levels) from English, Arabic, Farsi, Chinese, Russian, and Korean text. 
-
-Pursuing Multilingual IE, my ultimate goal is to expand the application of IE (e.g., news summarization, information retrieval) to many languages, and contribute to the democratization of IE across the languages. I believe this can give equal information access to populations speaking different languages in the world.
+I am a third-year Ph.D. student in Computer and Information Science at the [University of Oregon](https://www.uoregon.edu/). I have been working with Prof. [Thien Huu Nguyen](https://ix.cs.uoregon.edu/~thien/) in the [UONLP lab](http://nlp.uoregon.edu/) in Multilingual Information Extraction (Multilingual IE), which aims to develop systems for extracting structured information from unstructured text in different languages. Recent notable projects, where I am the lead author, are [Trankit](https://github.com/nlp-uoregon/trankit) (a state-of-the-art multilingual NLP toolkit for 56 languages), [FourIE](http://nlp.uoregon.edu/fourie) (a state-of-the-art multilingual joint IE system for English, Chinese, and Spanish), and [FAMIE](https://github.com/nlp-uoregon/famie) (a fast active learning framework for multilingual IE for 56 languages). I am also a research assistant for the [IARPA’s BETTER project](https://www.iarpa.gov/index.php/research-programs/better), where I have been building systems to extract events and arguments of different granularities (i.e., Abstract, Basic, and Granular levels) from English, Arabic, Farsi, Chinese, Russian, and Korean text. 
 
 Education
 ------
@@ -25,7 +23,7 @@ Education
 Experience
 ------
 * **Research Scientist Intern**
-    * July 2022 - .
+    * June 2022 - September 2022.
     * [Adobe Research](https://research.adobe.com/).
 
 * **Research Assistant**
@@ -127,12 +125,12 @@ Publications (*=equal contribution)
 Software
 ------
 I am the lead author of the following software:
-   * **Trankit**: a light-weight transformer-based toolkit for multilingual NLP that can process raw text and support fundamental NLP tasks for 56 languages. Trankit is based on recent advances on multilingual pre-trained language models, providing state-of-the-art performance for Sentence Segmentation, Part-of-Speech Tagging, Morphological Feature Tagging, Dependency Parsing, and Named Entity Recognition over 90 Universal Dependencies treebanks. Trankit is written in Python and can be installed via pip. [Github](https://github.com/nlp-uoregon/trankit), [Demo](http://nlp.uoregon.edu/trankit), [Documentation](https://trankit.readthedocs.io/en/latest/).
+   * **Trankit**: a state-of-the-art multilingual NLP system that outperforms other popular toolkits such as Stanza, UDPipe, Stanford CoreNLP, and spaCy on sentence and word segmentation, part of speech tagging, dependency parsing, and morphological tagging for 56 languages. [Github](https://github.com/nlp-uoregon/trankit), [Demo](http://nlp.uoregon.edu/trankit), [Documentation](https://trankit.readthedocs.io/en/latest/).
 
-   * **FAMIE**: a comprehensive and efficient active learning (AL) toolkit for multilingual information extraction (IE). FAMIE is designed to address a fundamental problem in existing AL frameworks where annotators need to wait for a long time between annotation batches due to the time-consuming nature of model training and data selection at each AL iteration. With a novel proxy AL mechanism and the integration of our SOTA multilingual toolkit Trankit, it takes FAMIE only a few hours to provide users with a labeled dataset and a ready-to-use model for different IE tasks over 100 languages. [Github](https://github.com/nlp-uoregon/famie), [Demo](http://nlp.uoregon.edu:9000), [Documentation](https://famie.readthedocs.io/en/latest/).
+   * **FAMIE**: a novel multilingual active learning framework that supports smart data labeling and model training for named entity recognition, event detection, and event argument extraction tasks for 56 languages. [Github](https://github.com/nlp-uoregon/famie), [Demo](http://nlp.uoregon.edu:9000), [Documentation](https://famie.readthedocs.io/en/latest/).
 
 
-   * **FourIE**: a neural information extraction system that annotates text for entity mentions (names, pronouns, and nominals of people, organizations, locations, etc), relations (between two entity mentions), event triggers and argument roles using the information schema defined in the ACE 2005 dataset. FourIE leverages deep learning and graph convolutional networks to jointly perform four tasks in information extraction, i.e., entity mention detection, relation extraction, event detection and argument role prediction in an end-to-end fashion. FourIE can work for 3 languages (English, Chinese, and Spanish). [Demo for English](http://nlp.uoregon.edu/fourie).
+   * **FourIE**: Our work proposes a state-of-the-art mulitlingual system that can simultaneously extract events, entities, relations from English, Chinese, and Spanish text. [Demo for English](http://nlp.uoregon.edu/fourie).
 
 Skills
 ------
@@ -141,12 +139,13 @@ Python, Pytorch, Numpy, Scikit-learn, Bash/Shell, Vim, Tmux, Git, Docker, Linux 
 
 Honors and Awards
 ------
+* Gurdeep Pall Graduate Student Fellowship, University of Oregon, 2022.
+* Invited to present our work - FAMIE at IARPA's Demo Day 2022.
 * Outstanding Demo Paper Award, EACL 2021.
 * Erwin & Gertrude Juilfs Scholarship, University of Oregon, 2021.
-* Gurdeep Pall Graduate Student Fellowship, University of Oregon, 2022.
 
   
 Academic Service
 ------
-* **Program Committee**: SDU@AAAI {2021,2022}, AAAI 2021, EMNLP 2021, SemEval {2022}, ARR {2022}.
+* **Program Committee**: SDU@AAAI {2021,2022}, AAAI 2021, EMNLP {2021,2022}, SemEval {2022}, ARR {2022}.
 * **Reviewer**: Neural Computing Journal 2022.
