@@ -151,5 +151,5 @@ Honors and Awards
   
 Academic Service
 ------
-* **Program Committee**: SDU@AAAI {2021,2022}, AAAI {2021,2023}, EMNLP {2021,2022}, SemEval {2022}, ARR {2022}.
+* **Program Committee**: SDU@AAAI {2021,2022}, AAAI 2021, EMNLP {2021,2022}, SemEval {2022}, ARR {2022}.
 * **Reviewer**: Neural Computing Journal 2022.
