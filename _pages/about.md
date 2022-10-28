@@ -40,6 +40,9 @@ Publications (*=equal contribution)
 
 ### 2022
 <br>
+* **Learning Cross-Task Dependencies for Joint Extraction of Entities, Events, Event Arguments, and Relations** [<a href=''>To Appear</a>]<br>
+  <ins>**Minh Van Nguyen**</ins>, Bonan Min, Franck Dernoncourt, and Thien Huu Nguyen.<br>
+  Proceedings of **EMNLP 2022**.<br>
 
 * **FAMIE: A Fast Active Learning Framework for Multilingual Information Extraction** [<a href='https://arxiv.org/pdf/2202.08316.pdf'>Paper</a>] [<a href='https://github.com/nlp-uoregon/famie'>Github</a>] [<a href='http://nlp.uoregon.edu:9000'>Demo</a>] [<a href='https://famie.readthedocs.io/en/latest/'>Documentation</a>]<br>
   <ins>**Minh Van Nguyen**</ins>, Nghia Trung Ngo, Bonan Min, and Thien Huu Nguyen.<br>
@@ -48,6 +51,14 @@ Publications (*=equal contribution)
 * **Joint Extraction of Entities, Relations, and Events via Modeling Inter-Instance and Inter-Label Dependencies** [<a href=''>To Appear</a>]<br>
   <ins>**Minh Van Nguyen**</ins>, Bonan Min, Franck Dernoncourt, and Thien Huu Nguyen.<br>
   Proceedings of **NAACL-HLT 2022**.<br>
+
+* **MECI: A Multilingual Dataset for Event Causality Identification** [<a href=''>To Appear</a>]<br>
+  Viet Dac Lai, Amir Pouran Ben Veyseh, <ins>**Minh Van Nguyen**</ins>, Franck Dernoncourt, and Thien Huu Nguyen.<br>
+  Proceedings of **COLING 2022**.<br>
+
+* **BehanceMT: A Machine Translation Corpus for Livestreaming Video Transcripts** [<a href=''>To Appear</a>]<br>
+  <ins>**Minh Van Nguyen**</ins>, Franck Dernoncourt, and Thien Huu Nguyen.<br>
+  Proceedings of **TU@COLING 2022**.<br>
 
 * **Cross-Lingual Event Detection via Optimized Adversarial Training** [<a href=''>To Appear</a>]<br>
   Luis Fernando Guzman-Nateras, <ins>**Minh Van Nguyen**</ins>, and Thien Huu Nguyen.<br>
@@ -63,11 +74,7 @@ Publications (*=equal contribution)
 
 * **Event Causality Identification via Generation of Important Context Words** [<a href=''>To Appear</a>]<br>
   Hieu Man Duc Trong, <ins>**Minh Van Nguyen**</ins>, and Thien Huu Nguyen.<br>
-  Proceedings of the 11th Joint Conference on Lexical and Computational Semantics (SEM 2022) at **NAACL-HLT 2022**.<br>
-
-* **MECI: A Multilingual Dataset for Event Causality Identification** [<a href=''>To Appear</a>]<br>
-  Viet Dac Lai, Amir Pouran Ben Veyseh, <ins>**Minh Van Nguyen**</ins>, Franck Dernoncourt, and Thien Huu Nguyen.<br>
-  Proceedings of the 29th International Conference on Computational Linguistics (**COLING 2022**) <br>
+  Proceedings of **SEM@NAACL-HLT 2022**.<br>
 
 ### 2021
 <br>
