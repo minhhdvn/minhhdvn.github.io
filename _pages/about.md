@@ -22,12 +22,16 @@ Education
 
 Experience
 ------
+* **Applied Scientist Intern**
+    * October 2022 - Present.
+    * Alexa AI.
+
 * **Research Scientist Intern**
     * June 2022 - September 2022.
     * [Adobe Research](https://research.adobe.com/).
 
 * **Research Assistant**
-    * January 2020 - .
+    * January 2020 - Present.
     * [IARPA Better Extraction from Text Towards Enhanced Retrieval (BETTER)](https://www.iarpa.gov/index.php/research-programs/better).
 
 * **Teach Assistant**
