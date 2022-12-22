@@ -34,7 +34,7 @@ Experience
     * January 2020 - Present.
     * [IARPA Better Extraction from Text Towards Enhanced Retrieval (BETTER)](https://www.iarpa.gov/index.php/research-programs/better).
 
-* **Teach Assistant**
+* **Teaching Assistant**
     * September 2019 - December 2019.
     * [<a href='https://classes.cs.uoregon.edu/19F/cis471/'>CIS 471: Introduction to Artificial Intelligence</a>].
 
