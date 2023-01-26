@@ -23,12 +23,14 @@ Education
 Experience
 ------
 * **Applied Scientist Intern**
-    * October 2022 - Present.
+    * October 2022 - May 2023.
     * Alexa AI.
+    * Working on open domain question answering.
 
 * **Research Scientist Intern**
     * June 2022 - September 2022.
     * [Adobe Research](https://research.adobe.com/).
+    * Working on sentiment analysis, speaker identification.
 
 * **Research Assistant**
     * January 2020 - Present.
