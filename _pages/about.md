@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-** I'm graduating and actively searching for exciting job opportunities **
+**I'm graduating and actively searching for exciting job opportunities**
 
 I am a fourth-year Ph.D. student in Computer Science at the [University of Oregon](https://www.uoregon.edu/), working with Prof. [Thien Huu Nguyen](https://ix.cs.uoregon.edu/~thien/) in the [UONLP lab](http://nlp.uoregon.edu/). My research interests are multilingual natural language processing, information extraction, question answering using large language models and reinforcement learning.  
 
