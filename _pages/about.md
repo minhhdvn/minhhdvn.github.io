@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a fourth-year Ph.D. student in Computer and Information Science at the [University of Oregon](https://www.uoregon.edu/). I have been working with Prof. [Thien Huu Nguyen](https://ix.cs.uoregon.edu/~thien/) in the [UONLP lab](http://nlp.uoregon.edu/) in Multilingual Information Extraction (Multilingual IE), which aims to develop systems for extracting structured information from unstructured text in different languages. Recent notable projects, where I am the lead author, are [Trankit](https://github.com/nlp-uoregon/trankit) (a state-of-the-art multilingual NLP toolkit for 56 languages), [FourIE](http://nlp.uoregon.edu/fourie) (a state-of-the-art multilingual joint IE system for English, Chinese, and Spanish), and [FAMIE](https://github.com/nlp-uoregon/famie) (a fast active learning framework for multilingual IE for 56 languages). I am also a research assistant for the [IARPA’s BETTER project](https://www.iarpa.gov/index.php/research-programs/better), where I have been building systems to extract events and arguments of different granularities (i.e., Abstract, Basic, and Granular levels) from English, Arabic, Farsi, Chinese, Russian, and Korean text. 
+** I'm graduating soon and actively searching for exciting job opportunities **
+
+I am a fourth-year Ph.D. student in Computer Science at the [University of Oregon](https://www.uoregon.edu/), working with Prof. [Thien Huu Nguyen](https://ix.cs.uoregon.edu/~thien/) in the [UONLP lab](http://nlp.uoregon.edu/). My research interests are multilingual natural language processing, information extraction, question answering using large language models and reinforcement learning.  
 
 Education
 ------
@@ -22,10 +24,10 @@ Education
 
 Experience
 ------
-* **Applied Scientist Intern**
-    * October 2022 - May 2023.
-    * Alexa AI.
-    * Working on open domain question answering.
+* **Applied Scientist II Intern**
+    * October 2022 - September 2023.
+    * Amazon Alexa AI.
+    * Building large language models for question answering using reinforcement learning.
 
 * **Research Scientist Intern**
     * June 2022 - September 2022.
@@ -43,6 +45,12 @@ Experience
 
 Publications (*=equal contribution)
 ------
+
+### 2023
+<br>
+* **Question-Context Alignment and Answer-Context Dependencies for Effective Answer Sentence Selection** [<a href=''>To Appear</a>]<br>
+  <ins>**Minh Van Nguyen**</ins>, Kishan KC, Toan Nguyen, Thien Huu Nguyen, Ankit Chadha, and Thuy Vu.<br>
+  Proceedings of **INTERSPEECH 2023**.<br>
 
 ### 2022
 <br>
