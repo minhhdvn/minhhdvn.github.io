@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hi!"
+title: "I'm graduating and actively searching for exciting job opportunities! Please contact me if you are interested."
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,9 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-**I'm graduating and actively searching for exciting job opportunities**
-
-I am a fourth-year Ph.D. student in Computer Science at the [University of Oregon](https://www.uoregon.edu/), working with Prof. [Thien Huu Nguyen](https://ix.cs.uoregon.edu/~thien/) in the [UONLP lab](http://nlp.uoregon.edu/). My research interests are multilingual natural language processing, information extraction, question answering using large language models and reinforcement learning.  
+I am a fourth-year Ph.D. student in Computer Science at the [University of Oregon](https://www.uoregon.edu/), working with Prof. [Thien Huu Nguyen](https://ix.cs.uoregon.edu/~thien/) in the [UONLP lab](http://nlp.uoregon.edu/). My research interests are multilingual natural language processing, information extraction, and open-domain question answering using large language models and reinforcement learning.  
 
 Education
 ------
@@ -27,7 +25,7 @@ Experience
 * **Applied Scientist II Intern**
     * October 2022 - September 2023.
     * Amazon Alexa AI.
-    * Building large language models for question answering using reinforcement learning.
+    * Building large language models for open-domain question answering using reinforcement learning.
 
 * **Research Scientist Intern**
     * June 2022 - September 2022.
