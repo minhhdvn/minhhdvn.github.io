@@ -25,7 +25,7 @@ Experience
 * **Applied Scientist II Intern**
     * October 2022 - September 2023.
     * Amazon Alexa AI.
-    * Building large language models for open-domain question answering using reinforcement learning.
+    * Building open-domain question answering systems using large language models and reinforcement learning.
 
 * **Research Scientist Intern**
     * June 2022 - September 2022.
