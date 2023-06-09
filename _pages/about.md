@@ -13,7 +13,7 @@ I am a fourth-year Ph.D. student in Computer Science at the [University of Orego
 Education
 ------
   * **University of Oregon**
-    * Ph.D. in Computer and Information Science, 2019 - Present.
+    * Ph.D. in Computer and Information Science, 2019 - 2024 (Expected).
     * Advisor: Prof. [Thien Huu Nguyen](https://ix.cs.uoregon.edu/~thien/).
   * **Hanoi University of Science and Technology**
     * B.E. in Information Systems, 2014 - 2019.
