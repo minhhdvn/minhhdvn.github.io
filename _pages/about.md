@@ -33,7 +33,7 @@ Experience
     * Working with [Franck Dernoncourt](https://research.adobe.com/person/franck-dernoncourt/) on sentiment analysis and speaker identification.
 
 * **Research Assistant**
-    * January 2020 - Present.
+    * January 2020 - March 2023.
     * [IARPA Better Extraction from Text Towards Enhanced Retrieval (BETTER)](https://www.iarpa.gov/index.php/research-programs/better).
 
 * **Teaching Assistant**
