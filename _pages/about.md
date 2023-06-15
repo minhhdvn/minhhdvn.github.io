@@ -24,13 +24,13 @@ Experience
 ------
 * **Applied Scientist II Intern**
     * October 2022 - September 2023.
-    * Amazon Alexa AI.
-    * Building open-domain question answering systems using large language models and reinforcement learning.
+    * [Amazon Alexa AI](https://www.amazon.science/tag/alexa).
+    * Working with [Thuy Vu](https://www.amazon.science/author/thuy-vu) on building open-domain question answering systems using large language models and reinforcement learning.
 
 * **Research Scientist Intern**
     * June 2022 - September 2022.
     * [Adobe Research](https://research.adobe.com/).
-    * Working on sentiment analysis, speaker identification.
+    * Working with [Franck Dernoncourt](https://research.adobe.com/person/franck-dernoncourt/) on sentiment analysis and speaker identification.
 
 * **Research Assistant**
     * January 2020 - Present.
@@ -45,6 +45,12 @@ Publications (*=equal contribution)
 ------
 
 ### 2023
+
+<br>
+* **Efficient Fine-tuning Large Language Models for Knowledge-Aware Response Assistants** [<a href=''>To Appear</a>]<br>
+  <ins>**Minh Van Nguyen**</ins>, Kishan KC, Toan Nguyen, Ankit Chadha, and Thuy Vu.<br>
+  Proceedings of **ECML-PKDD  2023**.<br>
+
 <br>
 * **Question-Context Alignment and Answer-Context Dependencies for Effective Answer Sentence Selection** [<a href=''>To Appear</a>]<br>
   <ins>**Minh Van Nguyen**</ins>, Kishan KC, Toan Nguyen, Thien Huu Nguyen, Ankit Chadha, and Thuy Vu.<br>
