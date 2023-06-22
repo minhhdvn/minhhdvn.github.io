@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a fourth-year Ph.D. student in Computer Science at the [University of Oregon](https://www.uoregon.edu/), working with Prof. [Thien Huu Nguyen](https://ix.cs.uoregon.edu/~thien/) in the [UONLP lab](http://nlp.uoregon.edu/). I'm interested in and have been working on multilingual natural language processing, information extraction, and open-domain question answering using large language models and reinforcement learning.  
+I am a Ph.D. candidate in Computer Science at the [University of Oregon](https://www.uoregon.edu/), working with Prof. [Thien Huu Nguyen](https://ix.cs.uoregon.edu/~thien/) in the [UONLP lab](http://nlp.uoregon.edu/). I'm interested in and have been working on multilingual natural language processing, information extraction, and open-domain question answering using large language models and reinforcement learning.  
 
 Education
 ------
