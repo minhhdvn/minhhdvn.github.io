@@ -25,7 +25,7 @@ Experience
 * **Applied Scientist II Intern**
     * October 2022 - September 2023.
     * [Amazon Alexa AI](https://www.amazon.science/tag/alexa).
-    * Working with [Thuy Vu](https://www.amazon.science/author/thuy-vu) on open-domain question answering systems using large language models and reinforcement learning.
+    * Working with [Thuy Vu](https://www.amazon.science/author/thuy-vu) on designing SFT and RLHF techniques for retrieval-augmented and conversational LLMs for Alexa - Web and Information Services.
 
 * **Research Scientist Intern**
     * June 2022 - September 2022.
