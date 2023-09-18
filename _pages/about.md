@@ -47,7 +47,7 @@ Publications (*=equal contribution)
 ### 2023
 
 <br>
-* **Efficient Fine-tuning Large Language Models for Knowledge-Aware Response Assistants** [<a href=''>To Appear</a>]<br>
+* **Efficient Fine-tuning Large Language Models for Knowledge-Aware Response Planning** [<a href=''>To Appear</a>]<br>
   <ins>**Minh Van Nguyen**</ins>, Kishan KC, Toan Nguyen, Ankit Chadha, and Thuy Vu.<br>
   Proceedings of **ECML-PKDD  2023**.<br>
 
