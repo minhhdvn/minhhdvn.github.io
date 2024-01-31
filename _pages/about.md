@@ -23,9 +23,9 @@ Education
 Experience
 ------
 * **Applied Scientist II Intern**
-    * October 2022 - September 2023.
+    * October 2022 - September 2023, November 2023 - February 2024.
     * [Amazon Alexa AI](https://www.amazon.science/tag/alexa).
-    * Working with [Thuy Vu](https://www.amazon.science/author/thuy-vu) on designing SFT and RLHF techniques for retrieval-augmented and conversational LLMs for Alexa - Web and Information Services.
+    * Working with [Thuy Vu](https://www.amazon.science/author/thuy-vu) and [Markus Dreyer](https://www.amazon.science/author/markus-dreyer) on designing SFT and RLHF techniques for retrieval-augmented and conversational LLMs for Alexa - Web and Information Services.
 
 * **Research Scientist Intern**
     * June 2022 - September 2022.
