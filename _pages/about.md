@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. candidate in Computer Science at the [University of Oregon](https://www.uoregon.edu/), working with Prof. [Thien Huu Nguyen](https://ix.cs.uoregon.edu/~thien/) in the [UONLP lab](http://nlp.uoregon.edu/). My research interests involve building LLMs for retrieval-augmented and conversational question answering, multilingual NLP, and information extraction. 
+Is a Ph.D. candidate in Computer Science at the [University of Oregon](https://www.uoregon.edu/), working with Prof. [Thien Huu Nguyen](https://ix.cs.uoregon.edu/~thien/) in the [UONLP lab](http://nlp.uoregon.edu/). His research interests involve building LLMs for retrieval-augmented and conversational question answering, multilingual NLP, and information extraction. 
 
 Education
 ------
