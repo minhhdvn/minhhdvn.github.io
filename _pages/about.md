@@ -7,12 +7,12 @@ redirect_from:
   - /about.html
 ---
 
-Is a Ph.D. candidate in Computer Science at the [University of Oregon](https://www.uoregon.edu/), working with Prof. [Thien Huu Nguyen](https://ix.cs.uoregon.edu/~thien/) in the [UONLP lab](http://nlp.uoregon.edu/). His research interests involve building LLMs for retrieval-augmented and conversational question answering, multilingual NLP, and information extraction. 
+Is an Applied Scientist at Amazon Web Services (AWS) AI Labs. He is working with the Amazon Q for Business Science team. Minh obtained a PhD degree in Computer Science at the [University of Oregon](https://www.uoregon.edu/) under the supervision of Prof. [Thien Huu Nguyen](https://ix.cs.uoregon.edu/~thien/) in the [UONLP lab](http://nlp.uoregon.edu/). His research interests involve multilingual information extraction, retrieval-augmented generation, conversational chatbots, and question answering using LLMs.
 
 Education
 ------
   * **University of Oregon**
-    * Ph.D. in Computer and Information Science, 2019 - 2024 (Expected).
+    * Ph.D. in Computer and Information Science, 2019 - 2024.
     * Advisor: Prof. [Thien Huu Nguyen](https://ix.cs.uoregon.edu/~thien/).
   * **Hanoi University of Science and Technology**
     * B.E. in Information Systems, 2014 - 2019.
@@ -21,6 +21,10 @@ Education
 
 Experience
 ------
+* **Applied Scientist II**
+    * April 2024 - Present.
+    * Amazon Q for Business Science team.
+      
 * **Applied Scientist II Intern**
     * October 2022 - September 2023, November 2023 - February 2024.
     * [Amazon Alexa AI](https://www.amazon.science/tag/alexa).
