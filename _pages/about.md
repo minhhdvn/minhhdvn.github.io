@@ -23,7 +23,8 @@ Experience
 ------
 * **Applied Scientist II**
     * April 2024 - Present.
-    * Amazon Q for Business Science team.
+    * Amazon Web Services (AWS) AI Labs.
+    * Working with the Amazon Q for Business Science team.
       
 * **Applied Scientist II Intern**
     * October 2022 - September 2023, November 2023 - February 2024.
