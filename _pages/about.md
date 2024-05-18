@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Is an Applied Scientist at Amazon Web Services (AWS) AI Labs. He is working with the Amazon Q for Business Science team. Minh obtained a PhD degree in Computer Science at the [University of Oregon](https://www.uoregon.edu/) under the supervision of Prof. [Thien Huu Nguyen](https://ix.cs.uoregon.edu/~thien/) in the [UONLP lab](http://nlp.uoregon.edu/). His research interests involve multilingual information extraction, retrieval-augmented generation, conversational chatbots, and question answering using LLMs.
+Is a PhD candidate in Computer Science at the [University of Oregon](https://www.uoregon.edu/) under the supervision of Prof. [Thien Huu Nguyen](https://ix.cs.uoregon.edu/~thien/) in the [UONLP lab](http://nlp.uoregon.edu/). His research interests involve information extraction, multilingual natural language processing, and large language models (LLMs) for retrieval-augmented generation (RAG).
 
 Education
 ------
