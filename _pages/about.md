@@ -53,12 +53,12 @@ Publications (*=equal contribution)
 <br>
 * **Reinforcement Learning from Answer Reranking Feedback for Retrieval-Augmented Answer Generation** [<a href=''>To Appear</a>]<br>
   <ins>**Minh Nguyen**</ins>, Toan Quoc Nguyen, Kishan KC, Zeyu Zhang, and Thuy Vu.<br>
-  Proceedings of **INTERSPEECH 2023**.<br>
+  Proceedings of **INTERSPEECH 2024**.<br>
 
 <br>
 * **Identifying Speakers in Dialogue Transcripts: A Text-based Approach Using Pretrained Language Models** [<a href=''>To Appear</a>]<br>
   <ins>**Minh Nguyen**</ins>, Franck Dernoncourt, Seunghyun Yoon, Hanieh Deilamsalehy, Hao Tan, Ryan Rossi, Quan Hung Tran, Trung Bui, and Thien Huu Nguyen.<br>
-  Proceedings of **INTERSPEECH 2023**.<br>
+  Proceedings of **INTERSPEECH 2024**.<br>
 
 ### 2023
 
