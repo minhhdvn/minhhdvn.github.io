@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Is an Applied Scientist II at Amazon Web Services (AWS) AI Labs, working in the Agentic AI group on [Amazon Q](https://aws.amazon.com/q/). Minh obtained a PhD degree in Computer Science at the [University of Oregon](https://www.uoregon.edu/) under his advisor - Professor [Thien Huu Nguyen](https://ix.cs.uoregon.edu/~thien/) in the [UONLP lab](https://github.com/nlp-uoregon). His research areas involve large language models, agentic systems, knowledge extraction, and information retrieval.
+Is an Applied Scientist II working on [Amazon Q](https://aws.amazon.com/q/) at the Agentic AI group, Amazon Web Services (AWS) AI Labs. Minh obtained a PhD degree in Computer Science at the [University of Oregon](https://www.uoregon.edu/) under his advisor - Professor [Thien Huu Nguyen](https://ix.cs.uoregon.edu/~thien/). His research areas involve large language models, agentic systems, knowledge extraction, and information retrieval.
 
 Education
 ------
